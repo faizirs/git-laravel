@@ -13,7 +13,7 @@
         <div class="col-md-5 offset-md-3">
             <div class="card">
                 <div class="card-body">
-                    <label>LOGIN</label>
+                    <label>LOGIN USER</label>
                     <hr>
                     <div class="form-group">
                         <label>Alamat Email</label>
